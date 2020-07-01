@@ -6,5 +6,5 @@ computer = "Rock"
 print('Computer: {}'.format(computer))
 
 # get the user input
-player = "Paper"
+player = input("Rock, Paper, Scissors? ")
 print('player: {}'.format(player))
