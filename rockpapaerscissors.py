@@ -7,3 +7,4 @@ print('Computer: {}'.format(computer))
 
 # get the user input
 player = "Paper"
+print('player: {}'.format(player))
