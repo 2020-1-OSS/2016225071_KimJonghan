@@ -12,3 +12,10 @@ print('Player: {}'.format(player))
 # tie
 if player == computer:
      print("Tie!")
+
+# rock
+elif player == "Rock":
+     if computer == "Scissors":
+         print("You win!")
+     else:
+         print("You lose!")
